@@ -1,0 +1,18 @@
+body {
+  margin: 0;
+  background-color: black;
+  color: lime;
+  font-family: 'Courier New', Courier, monospace;
+
+}
+input {
+  color: lime;
+  background: black;
+  border: none;
+  outline: none;
+}
+
+::selection {
+  background: lime;
+  color: black;
+}
